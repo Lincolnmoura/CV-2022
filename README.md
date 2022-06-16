@@ -9,7 +9,6 @@
     
 <table border="1">
 <tr>
-<th> <img  class="imgcurriculos" src="imagens/foto2.jpeg"> </th>
 <td  colspan="2"><h1>Lincoln Moura</h1><br><a target="_blank" href="mailto:lincolnmoura13@hotmail.com">lincolnmoura13@hotmail.com</a><br> <a target="_blank" href="https://wa.me/5511968544300">Whatsapp</a><br> <a target="_blank" href ="https://www.linkedin.com/in/lincoln-augusto-37a7ba1bb/">Linkedin</a> </td><br><br><br>
 </tr>
 <tr>
